@@ -57,3 +57,10 @@ Special thanks to these amazing projects/people which/who help power Yukki Music
 
 
 Reminder that you are great, you are enough, and your presence is valued. If you are struggling with your mental health, please reach out to someone you love and consult a professional.
+
+
+
+
+<h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴀʟᴇxᴀ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/PornoHup/AlexaMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<h4>ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ɪꜰ ʏᴏᴜ ᴀʀᴇ ꜰᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴏʀ  ᴀᴄᴄᴏᴜɴᴛ sᴜsᴘᴇɴsɪᴏɴ ɪssᴜᴇ ᴛᴏ ʙʏᴘᴀss ᴀɴʏ ʀᴇsᴛʀɪᴄᴛɪᴏɴ ᴏɴ ʜᴇʀᴏᴋᴜ 
