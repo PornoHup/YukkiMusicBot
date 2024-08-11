@@ -62,5 +62,5 @@ Reminder that you are great, you are enough, and your presence is valued. If you
 
 
 <h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴀʟᴇxᴀ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/PornoHup/AlexaMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/PornoHup/YukkiMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
 <h4>ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ɪꜰ ʏᴏᴜ ᴀʀᴇ ꜰᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴏʀ  ᴀᴄᴄᴏᴜɴᴛ sᴜsᴘᴇɴsɪᴏɴ ɪssᴜᴇ ᴛᴏ ʙʏᴘᴀss ᴀɴʏ ʀᴇsᴛʀɪᴄᴛɪᴏɴ ᴏɴ ʜᴇʀᴏᴋᴜ 
